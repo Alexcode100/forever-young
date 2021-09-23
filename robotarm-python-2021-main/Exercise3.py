@@ -1,3 +1,5 @@
+#Alexander den Otter  -  9067410
+#Oefening 3
 from RobotArm import RobotArm
 
 robotArm = RobotArm('exercise 3')

@@ -1,3 +1,4 @@
+#Alexander den Otter  -  9067410
 #Oefening 1
 from RobotArm import RobotArm
 
